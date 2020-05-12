@@ -1,7 +1,6 @@
 import time
 import random
 
-#global var
 enemies = ["monster", "vampire", "big python", "lion", "puma", "dragon"]
 directions = ["placeholder", "turn right", "turn left", "go straight"]
 items = ["sword", "pistol", "stick", "shield", "bow"]
